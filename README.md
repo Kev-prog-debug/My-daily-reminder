@@ -1,4 +1,3 @@
 # projects
-My personal built projects
-Hi, the following are the  website that I  built using my knowledge of JS,HTML and CSS.
+Hi, the following are the  websites that I built within the 3 months period of learning frontend web development !
 All of there are simple but "Simple is the best", right XD.
